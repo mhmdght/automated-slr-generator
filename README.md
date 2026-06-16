@@ -28,7 +28,3 @@ The complete project methodology, workflow design, and evaluation process are av
 This repository currently contains the research methodology, system design, and workflow specifications.
 
 Implementation details, prompt libraries, and production components are not publicly released at this stage.
-
-## License
-
-See the LICENSE file for usage and redistribution terms.
